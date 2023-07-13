@@ -3,6 +3,10 @@ title: "Drop Everything Now"
 enableToc: false
 ---
 
-[[The Razors Edge|刀锋]]
+*Site Under Construction*
 
-Inspired by [jzhao](https://jzhao.xyz/posts/networked-thought) and hosted on [Quartz](https://github.com/jackyzha0/quartz)
+Inspired by [jzhao](https://jzhao.xyz) and hosted on [Quartz](https://github.com/jackyzha0/quartz). I love the [[notes/philosophy|philosophy]] of Quartz.
+
+Last read: [[The Razor's Edge]]
+
+reading: The Three Body Problem: Death's End
