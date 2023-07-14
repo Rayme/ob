@@ -12,3 +12,6 @@ Inspired by [jzhao](https://jzhao.xyz) and hosted on [Quartz](https://github.com
 Last read: [[The Razor's Edge]]
 
 Reading: The Three Body Problem: Death's End
+
+- My blog: [imzm.im](https://imzm.im)
+- My Digital Garden: [jefftay.com](https://jefftay.com)
