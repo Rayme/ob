@@ -9,6 +9,8 @@ Inspired by [jzhao](https://jzhao.xyz) and hosted on [Quartz](https://github.com
 
 [[Why I host a new site]]
 
+当我有了数字花园后是否还有私人笔记的必要性？
+
 Last read: [[The Razor's Edge]]
 
-reading: The Three Body Problem: Death's End
+Reading: The Three Body Problem: Death's End
