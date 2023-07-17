@@ -6,11 +6,11 @@ Huhexian told me that he successfully runs a Quartz locally. I said yeah that's 
 
 So I started this right after. Firstly I forked the repo from jzhao who is the developer of Quartz, then I installed GitHub Desktop and Go (which I found it useless to me for now) and pulled the repo to my hard drive.
 
-Then I opened Obsidian and opened a vault in /ob/content folder (I changed the folder name). After a little setup, I successfully pushed this vault/folder to GitHub and the site went online with the URL rayme.github.io/ob .
+Then I opened [[Obsidian]] and opened a vault in /ob/content folder (I changed the folder name). After a little setup, I successfully pushed this vault/folder to GitHub and the site went online with the URL rayme.github.io/ob .
 
 Then I ran into domain and DNS setup issues. I found Huhexian ran into them too. I read an article he sent me, then I solved the problem. Here it is, a brand new site, probably another so called digital garden.
 
-I host a digital garden already with TiddlyWiki on Node.js on my VPS and I find it wonderful. But it is not perfect though. The reasons why I use Quartz are:
+I host a digital garden already with [[TiddlyWiki]] on Node.js on my VPS and I find it wonderful. But it is not perfect though. The reasons why I use Quartz are:
 
 1. The TiddlyWiki file is TOO big. Friends told me that he spends about one minute to load my site. That is really disturbing.
 2. I edit notes on a browser (that's the only way). So I have to backup the single HTML file everytime I commit changes to the TiddlyWiki. I can automate this flow but I am a lazy guy.
