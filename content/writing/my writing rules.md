@@ -1,4 +1,7 @@
-https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md
+---
+title: 写作排版习惯变迁
+---
+[[https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md|中文文案排版指北]]
 
 自我开始写文字起，就会遵循某一种特定的规则。这个规则时有变化，最开始的版本和现今版本已经不尽相同。
 
