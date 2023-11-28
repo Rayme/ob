@@ -1,8 +1,6 @@
 ---
-title: Welcome to some place called Quartz
+title: 阿刻戎河
 ---
+这里直通悲惨之城，由我这里直通无尽之苦，这里直通堕落众生……我永存不朽，我之前，万象未形，只有永恒的事物存在，来者啊！快将一切希望扬弃!
 
-
-This is a blank Quartz installation. yeah I know that.
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started. Or don't.
+[[我怎么看博客]] [[无压学习法语100天]] [[中文文案排版指北]]
