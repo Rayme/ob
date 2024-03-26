@@ -6,6 +6,7 @@ title: 硌硌若石
 
 最近文章：
 
+- [[posts/Three Body Problem|三体问题]]
 - [[Spring Festival Movies 2024|2024春节观影]]
 - [[The End of DCEU|《海王2》与 DCEU 的终结]]
 - [[notes on how to take effective notes|从《笔记的方法》中学到的笔记的方法]]
