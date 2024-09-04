@@ -4,11 +4,16 @@ title: 硌硌若石
 > 五色使人目盲。驰骋田猎使人心发狂。难得之货，使人之行妨。五味使人之口爽。五音使人之耳聋。是以圣人之治也，为腹不为目，故去彼取此。
 > \- 老子
 
-最近文章：
+2024
 
+- [[posts/july 2024 watched|七月观影]]
+- [[posts/the autobiography of benjamin franklin|《富兰克林自传》书摘]]
 - [[posts/arrow|绿箭侠]]
 - [[posts/Three Body Problem|三体问题]]
-- [[Spring Festival Movies 2024|2024春节观影]]
+- [[posts/Spring Festival Movies 2024|2024春节观影]]
+
+2023
+
 - [[The End of DCEU|《海王2》与 DCEU 的终结]]
 - [[notes on how to take effective notes|从《笔记的方法》中学到的笔记的方法]]
 - [[OnePlus Ace 2 Pro|一加 Ace 2 Pro 使用体验]]
