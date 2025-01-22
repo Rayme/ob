@@ -6,6 +6,11 @@ title: 硌硌若石
 
 2024
 
+- [[My App Defaults 2024]]
+- [[711 store|便利店]]
+- [[vivo x200 pro|vivo X200 使用体验]]
+- [[two movies and three shows|近日观影]]
+- [[posts/15 questions on blogging|独立博客自省问卷15题]]
 - [[posts/july 2024 watched|七月观影]]
 - [[posts/the autobiography of benjamin franklin|《富兰克林自传》书摘]]
 - [[posts/arrow|绿箭侠]]
